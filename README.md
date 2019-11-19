@@ -18,7 +18,7 @@
 </div>
 ```
 
-    * Manage/Index.cshtml.cs changes required:
+* Manage/Index.cshtml.cs changes required:
 
 ```diff
 public class InputModel {
